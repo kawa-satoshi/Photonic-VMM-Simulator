@@ -1,0 +1,3 @@
+# Optional HF model/tokenizer and dataset adapters; tested with these versions.
+transformers==4.50.3
+datasets==3.6.0

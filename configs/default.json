@@ -1,0 +1,19 @@
+{
+  "weight_noise_mode": "per_forward",
+  "constant_range_mode": "legacy_abs",
+  "output_tile_execution": "spatial_parallel",
+  "tile_in": 256,
+  "tile_out": 256,
+  "group_size": 256,
+  "x_bits": 8,
+  "w_bits": 8,
+  "y_bits": 8,
+  "x_noise": true,
+  "w_noise": true,
+  "y_noise": true,
+  "x_std": 0.01,
+  "w_std": 0.01,
+  "y_std": 0.01,
+  "seed": 42,
+  "clamp_codes": false
+}
