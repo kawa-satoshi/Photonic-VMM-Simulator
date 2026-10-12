@@ -6,11 +6,6 @@ independent X/W/Y noise, and optional dynamic input-feature protection share one
 numerical core. This is a floating-point numerical model, not an optical-device,
 integer zero-point compensation, or analog clipping simulator.
 
-**Private preparation copy. Publication scope and license are not decided.**
-No model weights, datasets, credentials, experiment logs, or original research
-repository are included. Paths below are placeholders. No output directory name
-changes the arithmetic.
-
 ## Layout
 
 ```text
